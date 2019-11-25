@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="movie_title">movie_title</string>
+    <string name="menu">⋮</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
